@@ -11,8 +11,8 @@ Java Full Stack Developer
 *   🚀  I'm currently working on [Hotel Management System (Rest API's)](http://github.com/mathiyalagan-murugaiyan/spring-boot-project)
 *   🧠  I'm learning React
   <a href="https://www.github.com/mathiyalagan-murugaiyan" target="_blank" rel="noreferrer">
-<br>
-<img src="https://img.shields.io/github/followers/mathiyalagan-murugaiyan?logo=github&style=for-the-badge&color=22c55e&labelColor=171717" /></a>
+<br>             <img src="https://img.shields.io/github/followers/mathiyalagan-murugaiyan?logo=github&style=for-the-badge&color=22c55e&labelColor=171717" /></a>
+
 
   ### Skills 
 <p align="left">
