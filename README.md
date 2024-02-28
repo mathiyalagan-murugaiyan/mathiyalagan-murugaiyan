@@ -10,8 +10,9 @@ Java Full Stack Developer
 *   ✉️  You can contact me at [mathiyalagan930@gmail.com](mailto:mathiyalagan930@gmail.com)
 *   🚀  I'm currently working on [Hotel Management System (Rest API's)](http://github.com/mathiyalagan-murugaiyan/spring-boot-project)
 *   🧠  I'm learning React
-*   ⚡  I'm secretly Batman... but don't tell anyone<a href="https://www.github.com/mathiyalagan-murugaiyan" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/mathiyalagan-murugaiyan?logo=github&style=for-the-badge&color=22c55e&labelColor=171717" /></a>
+*   ⚡  I'm secretly Batman... but don't tell anyone<a href="https://www.github.com/mathiyalagan-murugaiyan" target="_blank" rel="noreferrer">
+<br>
+<img src="https://img.shields.io/github/followers/mathiyalagan-murugaiyan?logo=github&style=for-the-badge&color=22c55e&labelColor=171717" /></a>
 
   ### Skills 
 <p align="left">
