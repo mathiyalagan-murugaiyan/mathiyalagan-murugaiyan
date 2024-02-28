@@ -1,8 +1,4 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20this%20is%20Amit%20Digraj;I'm%20a%20Java%20Developer%20!!&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=27" /></a>
-</p>
+
 ===============================================================================================================================================
 
 Java Full Stack Developer
