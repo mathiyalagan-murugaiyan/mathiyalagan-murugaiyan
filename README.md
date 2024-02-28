@@ -31,6 +31,4 @@ src="https://img.shields.io/github/followers/mathiyalagan-murugaiyan?logo=github
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mathiyalagan-murugaiyan"><img src="https://github-readme-stats.vercel.app/api?username=mathiyalagan-murugaiyan&show_icons=true&hide=stars,prs,issues,&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="mathiyalagan-murugaiyan's GitHub stats" /></a>
-
-<a href="http://www.github.com/mathiyalagan-murugaiyan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mathiyalagan-murugaiyan&bg_color=171717&color=ffffff&line=22c55e&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mathiyalagan-murugaiyan"><img src="https://github-readme-stats.vercel.app/api?username=mathiyalagan-murugaiyan&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="mathiyalagan-murugaiyan's GitHub stats" /></a>
