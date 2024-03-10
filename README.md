@@ -6,7 +6,6 @@ Java Full Stack Developer
 
 👋 Java developer from Chennai specializing in Spring Boot. Passionate about exploring new technologies, with a keen interest in Spring, and frontend tech (HTML, CSS, JavaScript, Bootstrap). Check out my repositories for a glimpse of my work! 💻🚀
 
-*   🌍  I'm based in Chennai
 *   ✉️  You can contact me at [mathiyalagan930@gmail.com](mailto:mathiyalagan930@gmail.com)
 *   🚀  I'm currently working on [Hotel Management System (Rest API's)](http://github.com/mathiyalagan-murugaiyan/spring-boot-project)
 *   🧠  I'm learning React
