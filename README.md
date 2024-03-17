@@ -23,6 +23,8 @@ Java Full Stack Developer
 <p align="left">
                       <a href="https://www.github.com/mathiyalagan-murugaiyan" target="_blank" rel="noreferrer">
                     <picture>
+                       <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
        <img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="github"/>
                     </picture> 
                     </a>
