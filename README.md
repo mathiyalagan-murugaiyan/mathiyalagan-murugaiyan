@@ -1,4 +1,4 @@
-Hi 👋 My name is mathiyalagan murugaiyan
+Hi 👋 My name is Mathiyalagan Murugaiyan
 ========================================
 
 Java Full Stack Developer
